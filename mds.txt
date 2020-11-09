@@ -1,0 +1,5 @@
+mpathb (36001405fd33d6d7b403430ca6b53eb74) dm-2 LIO-ORG,mgt1
+mpathc (360014057cac1eaa651c437e8ff68b0c3) dm-3 LIO-ORG,mdt1
+mpathd (360014055b392401d0eb46398fa4586df) dm-4 LIO-ORG,mdt3
+mpathe (36001405cc9ceebbbda2439aa6c74bd61) dm-5 LIO-ORG,mdt2
+
